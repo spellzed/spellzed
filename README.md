@@ -1,6 +1,5 @@
-Hello World
+Hello World!
 
-<!---
-spellzed/spellzed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+
+I work in Incident Response and mainly use GitHub for my testing and tinkering. I occasionally write. 
