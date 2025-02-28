@@ -1,5 +1,17 @@
-Hello World!
+# Hi There 👋
 
-# About Me
+Welcome to my GitHub profile. 
 
-I work in Incident Response and mainly use GitHub for my testing and tinkering. I occasionally write. 
+I mainly use GitHub for testing out cybersecurity tools and scripts and general tinkering. 
+
+## My Blog
+
+You can find my DFIR walkthroughs and downloads at (☞ﾟヮﾟ)☞ [my blog](https://spellzed.github.io/spellzedblog/).
+
+## Contact Me 📫
+
+Checkout the sidebar
+
+Have a good one!
+
+spellzed
