@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. 
 
-I mainly use GitHub for testing out cybersecurity tools and scripts and general tinkering. 
+(so far) I mainly use GitHub for testing out cybersecurity tools and scripts. 
 
 ## My Blog ✍️
 
